@@ -1,6 +1,6 @@
 # Docker Python
 
-![Travis (.org)](https://img.shields.io/travis/alvisisme/docker-python)
+![Travis (.com)](https://img.shields.io/travis/com/alvisisme/docker-python)
 ![Docker Pulls](https://img.shields.io/docker/pulls/alvisisme/python)
 
 基于ubuntu18.04的Python镜像
